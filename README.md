@@ -1,1 +1,3 @@
 # Projekt1
+
+Nur mal eine Idee...

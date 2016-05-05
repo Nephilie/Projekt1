@@ -1,3 +1,12 @@
+=== Projektidee Nephilie, 2016-05-05 ===
+
+Ausgangsspiel ist das Brettspiel "Albion".
+
+Albion ist der ehemalige Name von Britannien und die Spieler (zwei bis vier), in der Rolle von Gesandten des römischen Kaisers, möchten
+dieses besiedeln.
+Die Aufgabe "Als Erster 3 Siedlungen errichten und auf die höchste Stufe ausbauen" ist dabei für alle Spieler gleich.
+Wem es zuerst gelingt diese Aufgabe zu erfüllen, dem ist die Gunst des römischen Kaisers und der Spielsieg sicher.
+
 === Projektidee Nephilie, 2016-04-05 ===
 
 (Kein Inhalt)

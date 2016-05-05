@@ -1,39 +1,82 @@
 <!doctype html>
 
 <html lang=de>
-  
 <head>
   <meta charset=utf-8>
   <titel>Albion</titel>
 </head>
-
 <body>
 
 
+<!--
+=== Strukturelle Elemente ===
 
-Die strukturellen Elemente von dem Spiel "Albion"
+1. Startseite
 
-// Log-In-Feld
-- Eingabe der Spieleranzahl
-- Spielfigur auswählen 
-  - aus einer Tabelle 6x4 (Felder zeigen Abbildungen von Spielbarenfiguren von denen man auswählen kann)
-- Eingabefeld für Spielernamen
-- Schaltfläche zur bestätigung der Eingaben und zum start des Spieles
+- Hintergrundbild
 
-// Schaltfläche für Spielanleitung und Tipps
--Fläche1: Anleitung und Tipps
--Fläche2: Einführungsteil überspringen und Spielstarten
+- Hintergrundmusik
 
-// Spielfeld:
-- Karte von Albion/ Britannien (aufgeteil auf 13 Gebiete)
-- auf 7 der 13 Felder befinden sich die Pikten (Einheimische die einem nicht wohlgesonnen sind und ab und an mal den Spieler angreifen)
-- 4 Felder sind Rohstofffelder (Holz, Fisch, Stein und Gold) auf denen keine Pikten sind
-- die letzten zwei Felder sind das Startgebiet, wo es weder Pikten noch Rohstoffe gibt (sichere Felder)
+// Schaltfläche Hauptmenü
+- Schaltflächen
+      - Neues Spiel (Container(Anmeldemaske, öffnet sich nach Mausklick))
+                - Feld (Spielername)
+                - Input-Feld (für Spielername)
+                - Feld (Spieleranzahl)
+                - Input-Feld (für Anzahl)
+                - Feld (Spielfigur auswählen)
+                    - Tabelle, 6x4 Felder (Jeder soll eine Spielbarefigur darstellen)
+                - Schaltfläche (Bestätigen der Eingaben)
+      - Einstellungen
+                - Schaltfläche für Musik (an/ aus)
+                - Schaltfläche für Soundeffekte (an/ aus)
+                - Schaltfläche für Kamerasteuerung (ein/ ausblenden)
+                - Link (Spielanleitung)
 
-// Menü für Gebäude, Sielder, Legionäre und Rohstoff managment
+2. Spielfeld
+
+- Hintergrundbild (Albion/ Britannien)
+
+- 13 Bild-Container: jeder davon repräsentiert ein Spielfeld  
+                        (Wenn Nutzer ein Feld anwählen, soll ein Menü erscheinen.)
+                          (Menü für jedes Feld der Tabelle mit Texteinträgen: 
+                                                                              Gebäude bauen etc.)
+        7von13 Bild-Container: Pikten (random friend or foe)
+
+        4von13 Bild-Container: Rohstoffe (Holz, Fisch, Stein, Gold)
+        
+        2von13 Bild-Container: Startgebiet (sichere Felder)
+         
+         
+         
+                          
+- Tabelle, 5x4 Felder (Zeigen an was zu einzelnen Spielern gehören.)
+(Siedlung, Kastelle, Befestigung, Rohstoffbetriebe, Personentypen)
+          a. Bild-Container (z.B. Personentypen)
+          Textfeld (Anzahl) 
+          
+          b. Bild-Container (z.B. Rohstoffbetrieb)
+          Textfeld (Anzahl) Wenn Spieler diese Feld anwählt, soll ein Menü erscheinen
+                            - Bild-Container bis 4 Bilder (Holz, Fisch, Stein, Gold)
+          
+          c. Bild-Container (z.B. Befestigung)
+          Textfeld (Anzahl)
+          
+          d. Bild-Container (z.B. Kastelle)
+          Textfeld (Anzahl)
+          
+          e. Bild-Container (z.B. Siedlung)
+          Textfeld (Anzahl)
 
 
 
+-Textfeld mit Informationen und Anweisungen (z.B. Runde)
+
+-Textfeld mit Punktestand
+
+
+// noch in berarbeitung...
+-->
 
 </body>
 

@@ -51,3 +51,9 @@ Wertung 2: Projektbeschreibung: gesamt: 1 / 10
 - Werbeslogans u.ä.: 0 
 - Designaspekte: 0 
 - Voraussetzung bekannten Wissens: 0 
+
+===================================
+=== Feedback Alpers, 2016-06-27 ===
+===================================
+
+Leider lässt sich Ihre Beschreibung noch nicht nutzen, um basierend darauf mit der weiteren Planung und Umsetzung des Spiels zu beginnen. Es fehlt im Grunde das eigentliche Spiel weitgehend. Außerdem sind Formulierungen enthalten, die zu nah am Brettspiel sind. Schließlich muss kein Spieler "die verbleibenden Pikten verdeckt mischen und verdeckt in die dunklengrünen Felder verteilen".

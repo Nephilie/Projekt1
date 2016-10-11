@@ -1,0 +1,1 @@
+<!-- Hier erden die Eingaben des game.php verarbeitet --!>

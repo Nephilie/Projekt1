@@ -41,6 +41,27 @@ Log man sich über die Einstellung vom Spiel aus, wird man wieder zur Startseite
 
 
 ========================================
+=== Projektidee Nephilie, 2016-05-05 ===
+========================================
+
+Ausgangsspiel ist das Brettspiel "Albion".
+
+Albion ist der ehemalige Name von Britannien und die Spieler (zwei bis vier), in der Rolle von Gesandten des römischen Kaisers, möchten
+dieses besiedeln.
+Die Aufgabe "Als Erster 3 Siedlungen errichten und auf die höchste Stufe ausbauen" ist dabei für alle Spieler gleich.
+Wem es zuerst gelingt diese Aufgabe zu erfüllen, dem ist die Gunst des römischen Kaisers und der Spielsieg sicher.
+
+
+Spielvorbereitung:
+- Jeder Spieler wählt eine Farbe und Charakter und erhält: 4 Siedler, 3 Legionäre, 1 Bewegungsmarker und die Gebäudestufen 12x Siedlungen, 12x Rohstoffbetrieb, 9x Kastell, 6x Befestigung. Jeder Charakter hat eine speziale Eigenschaft die von Vorteil ist(z.B. ein Rohstoff extra pro Runde)
+- Die Pikten werden abhängig von der Spielerzahl sortiert: 4 Spieler werden alle Pikten verwendet
+                                                           3 Spieler werden 3 Pikten "Frieden" und 2 Pikten "Überfall" rausgenommen 
+                                                           2 Spieler werden 7 Pikten "Frieden" und 2 Pikten "Überfall" rausgenommen
+  Die verbleibenden Pikten werden verdeckt gemischt und verdeckt in die dunklengrünen Felder verteilt. Wie viele Pikten in jeden Bereich sind wird zufällig generiert.
+
+==> überarbeitete Version oben
+
+========================================
 === Projektidee Nephilie, 2016-04-05 ===
 ========================================
 

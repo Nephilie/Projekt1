@@ -21,19 +21,20 @@ Wenn man angemeldet ist, wird man weitergeleitet auf die "game map".
 
 // Hauptteil 
 Nachdem man sich seinen Spielercharakter (Porträt) ausgewählt hat wird die Spieleanwendung gestartet.
-Das Grundprinzip besteht darin, seine Siedlungen auszubauen, Ressourcen abzubauen und zu sichern das eigene Territorium stetig zu vergrößern. Man misst sich gegen Computer-Gegner (Pikten) die auf der Map "random" verteilt sind und menschlichen Gegnern.
-Aktionen werden mit per Tastendruck (Maus) oder per Touch Pad Eingabe und dementsprechenden Interaktionsfeldern druchgeführt.
+
+Das Grundprinzip des Spieles besteht darin, als erstes drei Siedlungen auf die höchste Stufe auszubauen, Ressourcen abzubauen und zu sichern dass das eigene Territorium stetig wächst. Man misst sich gegen Computer-Gegner (Pikten) die auf der Map "random" verteilt sind, welche entweder friedlich oder aggressive einem gesonnen sind, und menschlichen Gegnern (max. 4).
+
+Aktionen werden per Tastendruck (Maus) oder per Touch Pad Eingabe ausgeführt und dementsprechende Interaktionen druchgeführt.
 
 über Tasteninteraktion (Linksklick/ Touch)auf verschieden Symbole kann man auf folgende Features zugreifen:
   
-  - Freundesliste
   - Einstellungen
   - Gebäudemenü
   - Wirtschaftsübersicht
         - Rohstoffe
   - Rangliste
   
-Durch klicken öffnet sich ein kleines Pop-up Fenster im Spiel.
+  Durch klicken öffnet sich ein kleines Pop-up Fenster im Spiel.
 
 // Beenden
 

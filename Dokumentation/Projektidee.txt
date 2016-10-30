@@ -1,4 +1,14 @@
 ========================================
+=== Projektidee Nephilie, 2016-10-30 ===
+========================================
+
+
+Als mein Projekt werde ich das Brettspiel "Albion" in eine Anwendung umsetzten. In der Anwendung sollen zwei bis vier Spieler miteinander/ gegeneinander spielen können. Jeder der Spieler startet am Anfang 
+
+
+
+
+========================================
 === Projektidee Nephilie, 2016-09-27 ===  (überarbeitet: alte Version gelöst, um Übersicht zu waren)
 ========================================
 

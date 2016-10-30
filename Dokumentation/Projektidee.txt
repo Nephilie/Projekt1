@@ -5,7 +5,9 @@
 
 Als mein Projekt werde ich das Brettspiel "Albion" in eine Anwendung umsetzten.
 
-In der Anwendung sollen zwei bis vier Spieler gegeneinander spielen können, mit dem Ziel als erstes drei Sieldungen zu errichten und auf die höchste Stufe ausbauen. Jeder der Spieler (Siedler) startet in einem Startbereich mit einer Festung auf der Stufe I und einem Startguthaben an Rohstoffen. 
+In der Anwendung sollen zwei bis vier Spieler gegeneinander spielen können, mit dem Ziel als erstes drei 
+Sieldungen zu errichten und auf die höchste Stufe ausbauen. Jeder der Spieler (Siedler) startet in einem 
+Startbereich mit einer Festung auf der Stufe I und einem Startguthaben an Rohstoffen. 
 
 
 

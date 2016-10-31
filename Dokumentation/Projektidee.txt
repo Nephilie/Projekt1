@@ -6,10 +6,14 @@
 Als mein Projekt werde ich das Brettspiel "Albion" in eine Anwendung umsetzten.
 
 
-In der Anwendung werden die Spieler in das Antike Rom zurück versetzt, sie werden  nach Albion, keltisch für Britannien,
-gesendet um für den römischen Kaiser das Land zu besiedeln. Zwei bis vier Spieler spielen in diesem Szenarium gegeneinander,
+In der Anwendung werden die Spieler in das Antike Rom zurück versetzt, sie werden nach Albion, keltisch für Britannien,
+geschickt um für den römischen Kaiser das Land zu besiedeln. Zwei bis vier Spieler spielen in diesem Szenarium gegeneinander,
 mit dem Ziel als erstes drei Siedlungen auf die höchste Stufe zubauen.
-Jeder der Spieler (Siedler) startet in einem Startbereich mit einer Festung und einem Startguthaben an Rohstoffen. 
+Jeder der Spieler (Siedler) startet in einem Startbereich mit einer Festung und einem Startguthaben an Rohstoffen.
+
+Um neue Siedlungen zu bauen muss der Spieler einen Siedler in ein neues Gebiet schicken und entsprechend Rohstoffe ausgeben 
+zum ausbau der Siedlung, nachdem die Siedlung fertig ausgebaut ist kehrt der Siedler wieder ins Startgebiet (Siedlung) zurück.
+Jeder der Spieler muss seine Runde abwarten um seine nächste Aktion auszuüben.
 
 
 

@@ -47,6 +47,8 @@ Das Spiel ist Rundenbasiert und jeder Spieler muss seinen Zug abwarten um Aktion
 3. Interaktion zwischen Spieler und Spiel
     3.1 sichbar
     3.2 unsichbar
+    
+    
 
 
 

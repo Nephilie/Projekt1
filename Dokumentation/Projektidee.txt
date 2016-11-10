@@ -6,20 +6,51 @@
 Als mein Projekt werde ich das Brettspiel "Albion" in eine Anwendung umsetzten.
 
 
+-Kurze Zusammenfassung-
+
 In der Anwendung werden die Spieler in das Antike Rom zurück versetzt, sie werden nach Albion, keltisch für Britannien,
 geschickt um für den römischen Kaiser das Land zu besiedeln. Zwei bis vier Spieler spielen in diesem Szenarium gegeneinander,
-mit dem Ziel als erstes drei Siedlungen auf die höchste Stufe zubauen.
+mit dem Ziel als erstes drei Siedlungen auf die höchste Stufe zubauen. Man kann außerdem alleinen spielen und als Gegener
+vom Computer Spieler (NSC) spielen.
 Jeder der Spieler (Siedler) startet in einem Startbereich mit einer Festung und einem Startguthaben an Rohstoffen.
 
 Um neue Siedlungen zu bauen muss der Spieler einen Siedler in ein neues Gebiet schicken und entsprechend Rohstoffe ausgeben 
 zum ausbau der Siedlung, nachdem die Siedlung fertig ausgebaut ist kehrt der Siedler wieder ins Startgebiet (Siedlung) zurück.
-Jeder der Spieler muss seine Runde abwarten um seine nächste Aktion auszuüben.
+Das Spiel ist Rundenbasiert und jeder Spieler muss seinen Zug abwarten um Aktion auszuführen. Das Spiel soll sich an andere Rundenbasierte Strategiespiele ein Vorbild nehmen.
+
+
+==================
+=== Konzeption === 2016-11-10
+==================
+
+
+== Übersicht ==
+
+1. Spiel
+    1.1 die Spielwelt
+    1.2 Rohstoffe abbauen
+    1.3 Kämpfe
+    1.4 Siedlung verbessern
+    1.5 Hintergrundgeschichte
+
+2. Spielermodus
+    2.1 Account 
+    2.2 Freunde
+    2.3 Einzelspieler-Spiel erstellen
+    2.4 Mehrspieler-Spiel erstellen
+    2.5 Mehrspieler-Spiel beitreten
+    2.6 Bewegen in der Spielwelt, Kommunikation
+    2.7 Kämpfe 
+    2.8 Tauschen von Rohstoffen
+    2.9 Fortschritt Mehrspieler- und Einzelspielermodus
+    
+3. Interaktion zwischen Spieler und Spiel
+    3.1 sichbar
+    3.2 unsichbar
 
 
 
 
-
-// noch in Arbeit....
 
 
 ========================================

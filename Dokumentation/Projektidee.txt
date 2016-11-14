@@ -49,6 +49,28 @@ Das Spiel ist Rundenbasiert und jeder Spieler muss seinen Zug abwarten um Aktion
     3.2 unsichbar
     
     
+    
+===============    
+== Das Spiel ==
+===============
+
+== Spielewelt ==
+
+    Struktur:   
+                (i) es gibt eine Spielewelt
+                
+                (ii) diese besteht aus sechseckigen Geländefeldern
+                
+                (iii) in der Spielewelt befinden sich
+                      a. es gibt Gegner (Pikten)
+                      b. es gibt andere Spieler (Gegner)
+                 
+                (iv) es gibt Rohstoffe
+                
+                
+    Funktion der Struktur:    
+                (i) 
+
 
 
 

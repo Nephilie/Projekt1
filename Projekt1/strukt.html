@@ -1,0 +1,190 @@
+<!-- Feedback Änderung Version 2.0 13.10.2016
+
+=======================
+=== Zweiter Entwurf ===
+=======================
+
+Strukurierung
+
+	1. Textfeld (Titel des Spiels)
+	2. Hintergrundbild (Bild des gesamten Spieles)
+	3. Bildbereich (Logo des Spiels)
+	4. Textfeld (Label: Slogan des Spiels)
+	5. Textfeld (Label: News zum Spiel)
+	6. Schaltfläche (Label: Kurzvorstellung)
+	7. Textfeld (Inhalt: Geschichte von Albion)
+	8. Schaltfläche (Label: Speilanleitung)
+	9. Textfeld (Inhalt: Spielregeln)
+	10. Links (Labels: Forum)
+
+	11. Textfeld (Überschrift: Login)
+	12. Formular Container (Funktion: form-Container)
+	13. Eingabefeld (Label: Benutzername)
+	14. Eingabefeld (Label: Passwort)
+		// Passwort wird natürlich nicht angezeigt
+	15. Schaltfläche (Label: Submit)
+	16. Schaltfläche (Lable: Zurück)
+	17. Schaltfläche (Label: Facebook/ Google+)
+		// anstatt sich zu registrieren, alternative mit seinem Facebook/ Google+ Account einloggen
+	18. Links (Label: zurück zur Startseite)
+	
+
+	19. Textfeld (Überschrift: Registrieren) 
+	20. Formular Container (Funktion: form-Container)
+	21. Eingabefeld (Lable: Benutzername)
+	22. Eingabefeld (Label: E-Mail Adresse)
+	23. Eingabefeld (Label: Passwort)
+		// eingabe des Passworts wird nicht angezeigt
+	24. Eingabefeld (Label: Passwort wierdeholen)
+		// eingabe des Passworts wird nicht angezeigt
+	25. Textfeld (Inhalt: AGBs)
+	26. Links (Label: Nutzungsbedingungen)
+	27. Links (Label: Datenschutzerklärung)
+	28. Schaltfläche (Label: Submit)
+	29. Schaltfläche (Label: Zurück)
+	30. Links (Label: zurück zur Startseite)
+
+	
+	31. Textfeld (Überschrift: Jetzt Spielen)
+	32. Textfeld (Inhalt: Serverlsite)
+	33. Textfeld (Inhalt: Start Server auswählen)
+			// da nur eine begrenze Anzahl von Spielern auf einen Server passen
+	34. Formular Container (Funktion: form-Containter)
+	35. Eingabefeld (Label: Server auswahl)
+	36. Textfeld (Inhalt: Wähle einen Charakter aus)
+	37. Bildbereich (Charakterliste)
+	38. Forumlar Container (Funtion. form-Container)
+	39. Eingabefeld (Label: Auswahl des Charakters)
+	40. Schaltfläche (Label: Submit)
+	
+	41. Schaltfäche (Label: Spielen)
+	42. 
+	
+
+....
+
+
+<!-- Benennung meiner strukturellen Elemente Version 1.0
+
+======================
+=== Erster Entwurf ===
+======================
+
+STARTSEITE
+- Hintergrundbild
+- Hintergrundmusik
+
+// Schaltfläche Hauptmenü
+- Schaltflächen
+      - Neues Spiel (Container(Anmeldemaske))
+                - Feld (Spielername)
+                - Input-Feld (Spielername)
+                - Feld (Spieleranzahl)
+                - Input-Feld (Passwort)
+                - Input-Feld (Passwort)
+                    - Tabelle, 6x4 Felder (Jeder soll eine Spielbarefigur darstellen)
+                - Schaltfläche (Bestätigen der Eingaben)
+      - Einstellungen
+                - Schaltfläche für Musik (an/ aus)
+                - Schaltfläche für Soundeffekte (an/ aus)
+                - Schaltfläche für Kamerasteuerung (ein/ ausblenden)
+                - Link (Spielanleitung)
+
+2. Spielfeld
+
+- Hintergrundbild (Albion/ Britannien)
+
+- 13 Bild-Container: jeder davon repräsentiert ein Spielfeld  
+                        (Wenn Nutzer ein Feld anwählen, soll ein Menü erscheinen.)
+                          (Menü für jedes Feld der Tabelle mit Texteinträgen: 
+                                                                              Gebäude bauen etc.)
+        7von13 Bild-Container: Pikten (random friend or foe)
+
+        4von13 Bild-Container: Rohstoffe (Holz, Fisch, Stein, Gold)
+        
+        2von13 Bild-Container: Startgebiet (sichere Felder)
+         
+         
+         
+                          
+- Tabelle, 5x4 Felder (Zeigen an was zu einzelnen Spielern gehören.)
+(Siedlung, Kastelle, Befestigung, Rohstoffbetriebe, Personentypen)
+          a. Bild-Container (z.B. Personentypen)
+          Textfeld (Anzahl) 
+          
+          b. Bild-Container (z.B. Rohstoffbetrieb)
+          Textfeld (Anzahl) Wenn Spieler diese Feld anwählt, soll ein Menü erscheinen
+                            - Bild-Container bis 4 Bilder (Holz, Fisch, Stein, Gold)
+          
+          c. Bild-Container (z.B. Befestigung)
+          Textfeld (Anzahl)
+          
+          d. Bild-Container (z.B. Kastelle)
+          Textfeld (Anzahl)
+          
+          e. Bild-Container (z.B. Siedlung)
+          Textfeld (Anzahl)
+
+
+
+-Textfeld mit Informationen und Anweisungen (z.B. Runde)
+
+-Textfeld mit Punktestand
+
+
+
+-->
+
+</body>
+
+<!-- Feedback ms-student 
+Hier wurde der Aufbau und Start des Spieles erläutert.
+Man könnte evtl noch den Spielablauf definieren.
+Zum Beispiel, die Verteilung der Rohstoffe und Pikten (Schaltflächen)
+Das Bewegen der Spieler, Bauen und nehmen der Rohstoffe (Schaltflächen)
+-->
+
+<!--
+===================================
+=== Feedback Alpers, 2016-04-28 ===
+===================================
+
+Ein formeler Fehler hat sich bei Ihnen eingeschlichen: Die Datei Projektidee.txt fehlt jetzt leider komplett.
+
+Leider haben Sie einen wichtigen Teil der letzte Aufgabenstellung nicht umgesetzt: Sie sollten zunächst eine Projektbeschreibung im Sinne von Kap. 5 für das Spiel erstellen.
+
+Wenn Sie das nachgeholt haben, arbeiten Sie bitte die strukturellen Elemente wie beschrieben nach.
+
+Momentan haben Sie diese Aufgabe leider nicht sehr gut bearbeitet. Hier ein Beispiel:
+- Karte von Albion/ Britannien (aufgeteil auf 13 Gebiete)
+- auf 7 der 13 Felder befinden sich die Pikten (Einheimische die einem nicht wohlgesonnen sind und ab und an mal den Spieler angreifen)
+- 4 Felder sind Rohstofffelder (Holz, Fisch, Stein und Gold) auf denen keine Pikten sind
+- die letzten zwei Felder sind das Startgebiet, wo es weder Pikten noch Rohstoffe gibt (sichere Felder)
+
+Wenn Sie die strukturellen Elemente des Spiels benennen sollen, dann bleibt von diesen vier Zeilen nur die folgende übrig:
+- 13 Container: Jeder davon repräsentiert ein Spielfeld
+(Bei diesem Beispiel habe ich nur von Containern gesprochen. Sie müssten festlegen, ob es sich um einen Text- oder Bildcontainer handeln soll oder ob die Container noch komplexer sein sollen.)
+
+Aber zumindest ist die Beschreibung übersichtlich und relativ knapp ausgefallen, wenn man davon absieht, dass Sie hier zum Teil die Regeln und die strukturellen Elemente kombiniert haben. (Um die Regeln geht es erst später.)
+
+Wertung 3: Ausarbeitung der strukt. Elem.: gesamt: 3 / 10
+- Knappe Form: 2
+- Für je 5 unterschiedl. strukt. Elem (keine Gruppierungen): 1
+- Vermischung strukt. Elem. und Gruppierung: 0
+
+===================================
+=== Feedback Alpers, 2016-06-08 ===
+===================================
+
+Im Lernraum habe ich die nächsten Aufgaben bereitgestellt. Darin wird beschrieben, wie Sie mit den strukturellen Elementen, Gruppierungen und Ansichten weiterarbeiten können, um daraus HTML-Code zu entwickeln. Bitte setzen Sie das um, nachdem Sie die Beschreibung überarbeitet haben.
+
+===================================
+=== Feedback Alpers, 2016-06-27 ===
+===================================
+
+Leider keine Änderung an der Struktur. Wichtig ist allerdings ohnehin, dass Sie zunächst eine für die weitere Entwicklung ausreichende Beschreibung als Computerspiel entwickeln.
+-->
+
+
+
+	
